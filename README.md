@@ -1,4 +1,4 @@
-{
+    // Inicia o vscode sempre com um editor em branco
     "workbench.startupEditor": "newUntitledFile",
 
     // Define o tema
@@ -50,4 +50,3 @@
     "explorer.confirmDelete": false,
     "window.zoomLevel": 0
 
-}
