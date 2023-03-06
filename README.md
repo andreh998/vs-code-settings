@@ -1,13 +1,6 @@
     // Inicia o vscode sempre com um editor em branco
     "workbench.startupEditor": "newUntitledFile",
 
-    // Define o tema
-    "workbench.colorTheme": "Omni",
-
-    // Tipo da fonte
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
-
     // Aumenta a fonte do terminal
     "terminal.integrated.fontSize": 14,
 
@@ -33,10 +26,6 @@
 
     // Adiciona o nome da pasta ao lado do nome do arquivo na aba
     "workbench.editor.labelFormat": "short",
-    
-    // Evita o ajuste da importação quando algum arquivo é movido de pasta
-    "javascript.updateImportsOnFileMove.enable": "never",
-    "typescript.updateImportsOnFileMove.enable": "never",
 
     // Visualiza o caminho todo do arquivo.
     "breadcrumbs.enabled": true,
